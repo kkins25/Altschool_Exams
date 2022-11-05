@@ -1,8 +1,0 @@
-[web]
-54.164.87.0
-18.234.211.160
-23.22.143.150
-34.234.82.117
-
-[all:vars]
-ansible_python_interpreter=/usr/bin/python3
