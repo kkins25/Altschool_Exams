@@ -1,0 +1,10 @@
+---
+db_user: "kingsley"
+db_pass: "12345"
+db_name: "kkins"
+mysql_root_password: "12345"
+app_user: "kingsley"
+http_host: "kingsleysalvo"
+http_conf: "kingsleysalvo.conf"
+http_port: "80"
+disable_default: true
